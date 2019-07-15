@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleScripts/Battle/BattleLogicPVE.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/Panel/BattleFinishPanel.cs" Line="6" Column="31" />
+      <File FileName="Assets/Scripts/BattleScripts/Battle/BattleLogicPVE.cs" Line="103" Column="7" />
+      <File FileName="Assets/Scripts/DungeonScripts/DungeonLogic.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/UI/IView.cs" Line="46" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/YiChuan/MyUnityProject/Lesson5/Assets/Scripts/BattleScripts/Controller/CombatUnitController.cs" line="231" />
+      <Breakpoint file="/Users/YiChuan/MyUnityProject/Lesson5/Assets/Scripts/BattleScripts/Controller/CombatUnitController.cs" line="237" />
+      <Breakpoint file="/Users/YiChuan/MyUnityProject/Lesson5/Assets/Scripts/BattleScripts/Controller/CombatUnitController.cs" line="251" />
+      <Breakpoint file="/Users/YiChuan/MyUnityProject/Lesson5/Assets/Scripts/BattleScripts/Controller/CombatUnitController.cs" line="144" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
